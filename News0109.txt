@@ -1,1 +1,4 @@
-WelCome to Tesla
+Welcome to Tesla
+Booking start hone se 1 minute pahle login kijiye.
+Sensor data generate hone ke baad apne mobile ka data band karke phir se start kijiye aur booking kijiye.
+Fast booking ke liye fresh IP use kijiye aur hamesha apna net IP change karte rahe — booking se pahle device restart zarur kijiye
