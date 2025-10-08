@@ -12,3 +12,7 @@ AC me jis ID se token banaya hai, usi ID se fir SL me token mat banaiye.
 Aur jab IP block ho jaye to server par token mat bhejiye.
 APK ko clean kijiye, internet band karke fir se start kijiye,
 phir token new ID se banaiye aur bhejiye
+
+News read kariye aur usi hisaab se kaam kariye, 99% kaam ho jayega aapka.
+Lekin agar aap apne hisaab se karenge to dikkat aayegi.
+Yeh sab tareeke already bahut trials ke baad mile hain, isliye aapko bataya ja raha hai.
