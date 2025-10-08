@@ -5,3 +5,10 @@ Apna 52 par token bana lijiye aur token sirf login karke train search karke avai
 4 Token se zyada 2 form ke liye token mat bhejiye, zyada token bhejne se form slow ho jata hai.
 Aur mobile data se booking kariye to speed fast rahegi, bas net hamesha restart kar lijiye.
 AC ya SL dono booking me alag alag IP hona chahiye
+
+Aur agar aapka APK se token banate time IP block ho gaya, to aapka token corrupt ho gaya.
+Token hamesha new IRCTC ID se banaiye.
+AC me jis ID se token banaya hai, usi ID se fir SL me token mat banaiye.
+Aur jab IP block ho jaye to server par token mat bhejiye.
+APK ko clean kijiye, internet band karke fir se start kijiye,
+phir token new ID se banaiye aur bhejiye
