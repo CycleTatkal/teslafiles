@@ -1,5 +1,7 @@
-Welcome to Tesla
-Booking start hone se 1 minute pahle login kijiye.
-Sensor data generate hone ke baad apne mobile ka data band karke phir se start kijiye aur booking kijiye.
-Check token me apka token get krne ke bad hi login kryega 
-Fast booking ke liye fresh IP use kijiye aur hamesha apna net IP change karte rahe — booking se pahle device restart zarur kijiye
+WelCome to Tesla
+Booking karna hai to 99% confirm ke liye aap 59 minute par login kariye, lekin login se 5 minute pehle apna internet restart kar dijiye.
+Apna 52 par token bana lijiye aur token sirf login karke train search karke availability check karke wapas home par click karke apni user ID daal dijiye.
+
+4 Token se zyada 2 form ke liye token mat bhejiye, zyada token bhejne se form slow ho jata hai.
+Aur mobile data se booking kariye to speed fast rahegi, bas net hamesha restart kar lijiye.
+AC ya SL dono booking me alag alag IP hona chahiye
