@@ -1,6 +1,9 @@
 Welcome to Tesla 
 News read kariye aur usi hisaab se kaam kariye — aapka kaam 99% ho jayega. Agar aap apne hisaab se karenge to dikkat aayegi.
 
+APP login not working
+Super login working
+
 Sabse pehle APK se token generate kijiye, fir “Check Token” par jakar apna token get kijiye. Jab Yes/No ka option aaye, to No select kijiye. Uske baad apna form load kijiye aur fir login kijiye.
 Bina token ke login karenge to booking 100% fail hogi.
 Yeh sab tareeke bahut trials ke baad mile hain, isliye aapko bataya ja raha hai.
